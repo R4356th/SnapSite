@@ -60,27 +60,27 @@
     "Delete":
         "মুছুন",
     "Share project":
-        "Compartir projecte",
+        "শেয়ার প্রকল্প korun",
     "Are you sure you want to share this project?":
-        "Segur que vols compartir aquest projecte?",
+        "আপনি কি এই প্রকল্পটি ভাগ করে নেওয়ার বিষয়ে নিশ্চিত?",
     "Cancel":
-        "Cancel·la",
+        "বাতিল korun",
     "Ok":
-        "D'acord",
+        "ঠিক আছে",
     "OK":
-        "D'acord",
+        "ঠিক আছে",
     "Project shared":
-        "Projecte compartit",
+        "প্রকল্প ভাগ করা হয়eche",
     "You can now access this project at:":
-        "Pots compartir aquest projecte mitjançant l'adreça:",
+        "আপনি এখন এই প্রকল্পটিতে অ্যাক্সেস করতে পারেন এখানে:",
     "Unshare project":
-        "Deixar de compartir projecte",
+        "প্রকল্পটি unভাগ করুন",
     "Are you sure you want to stop sharing this project?":
-        "Segur que vols deixar de compartir aquest projecte?",
+        "আপনি কি এই প্রকল্পটি ভাগ করে নেওয়ার বিষয়ে নিশ্চিত? no",
     "Project unshared":
-        "Projecte privat",
+        "প্রকল্পটি ভাগ করা নেই",
     "This project is now private.":
-        "Aquest projecte és ara privat",
+        "এই প্রকল্পটি এখন ব্যক্তিগত।",
     "Publish project":
         "Publicar projecte",
     "Are you sure you want to publish this project<br>and make it visible in the Snap<em>!</em> website?":

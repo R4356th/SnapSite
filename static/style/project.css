@@ -190,10 +190,12 @@ img.collection-thumbnail {
     right: 0;
     bottom: .4em;
     font-size: 0.8em;
+    overflow: auto;
 }
 
 .remixed-from .author {
     font-size: 1em;
+    overflow: auto;
 }
 
 .embed {
